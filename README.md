@@ -1,5 +1,7 @@
 # vlc-hide-eadir-synology
 
+***English** · [Italiano](README.it.md)*
+
 Hide Synology `@eaDir` directories from VLC's playlist.
 
 ## The problem
